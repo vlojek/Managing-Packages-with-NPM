@@ -2,6 +2,7 @@
   "author": "vlojek",
   "name": "fcc-learn-npm-package-json",
   "description": "Baby project :D",
+  "license": "MIT",
   "keywords": [
     "freecodecamp",
     "related",
