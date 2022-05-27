@@ -1,5 +1,6 @@
 {
   "author": "vlojek",
+  "version": "1.2.0",
   "name": "fcc-learn-npm-package-json",
   "description": "Baby project :D",
   "license": "MIT",
